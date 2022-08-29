@@ -4,7 +4,7 @@ This dataset contains customers’ sentiments on Twitter toward four Saudi Banks
 
 ## File Specifications
 
-- [data_Saudi_banks.xlsx](https://github.com/iwan-rg/Saudi-Dialect-Irony-Dataset/blob/main/SaudiIrony.csv) : File that contains tweets with three labels, positive, negative, and neutral.
+- [data_Saudi_banks.xlsx](https://github.com/iwan-rg/Saudi-Bank-Sentiment-Dataset/blob/main/data_Saudi_banks.xlsx) : File that contains tweets with three labels, positive, negative, and neutral.
 
 ## Citation
 
